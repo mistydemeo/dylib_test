@@ -1,0 +1,8 @@
+[package]
+name = "dylib_test"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "dylib_test"
+crate-type = ["cdylib"]
