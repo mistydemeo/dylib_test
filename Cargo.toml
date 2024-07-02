@@ -2,6 +2,7 @@
 name = "dylib_test"
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/mistydemeo/dylib_test"
 
 [lib]
 name = "dylib_test"
